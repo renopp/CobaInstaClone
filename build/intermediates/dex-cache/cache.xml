@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_67505cccc114a15306a8013f6037593f6facb6f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ade973b1c1a202204cfe715f988310c2b9b5551e">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4dfc643fb7e438284ba39f094b4eb1d9c493751/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.commonsware.cwac/camera/0.7.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c52496d5177b4f45994244bc954babd31d7d24c">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.commonsware.cwac-camera-0.7.0_cc95f5073af4c40c85d79277776685c55d416db0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/hugo-annotations-1.2.1_6f8dcc602a01ddc293228ef057642e1533f097b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_d96ed4f3e0a4af5674b8e93e1c8032d83274ba0e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_faff1266c9bcbcdeafd4869849792e631bcc130e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.1.1_273fd2566b79126d8f7c600e4389a1b261e86fae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_780c977969bb0e00b9ac72e32f40014211374897/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f45a0143e9c43a459f3f331a6b3e7daf13981ef4">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.0_108b8f9562992efb60aded8d6d0e799a8a1103ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c66979fe2f2d6be48a1ca8bfaf3fafa9d0b5898c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_9df1e4113a93553e9c19c253e802abdfafd935b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_80d547c97bb95c933e7ce4a8f3669c8534d20460/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_99eced9223422d68e17291899c7377924987ee3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_cbde2ae418f2e74d2dadf92af023475a35dd2e4c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.jakewharton.hugo/hugo-runtime/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.hugo-hugo-runtime-1.2.1_db9e5087eed286d8122f65e28ad8e0e07a77322f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.1.1_3f962f59b08c682393569f22887863f4604cf056/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7c649979b79ccbe216d754ebf57ddc92b0bd848a">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_605841a72ac393fdd66d41d4434dec3747fd7a82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_69e411e9e78ca37da09b3c51f217e71ccce3d6f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/renoputra/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="/Users/renoputra/Downloads/InstaMaterial-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/aspectjrt-1.8.5_5e9aa5b7d62fb8b2c8c6d04faed82352014a3989/classes.dex" />
+    </item>
+
+</items>
